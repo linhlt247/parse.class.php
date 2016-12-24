@@ -1,7 +1,14 @@
 # parse.class.php
-Unfriend Facebook Deactive Account
+Unfriend Deactive Account
 
-# Usage
+## Usage
+```php
 $call = new ParseFriends('[c_user]', '[xs]', '[access_token]');
-
 $call->Parse();
+```
+
+## Requirements
+PHP >= 5.0
+
+## License
+MIT

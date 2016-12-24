@@ -1,6 +1,6 @@
 <?php
 	/**
-		* Parse Friends parse.class.php, Unfriend Facebook Deactive Account
+		* Parse Friends parse.class.php, Unfriend Deactive Account
 		*
 		* See list friends with Facebook API, @link https://developers.facebook.com/docs/graph-api/reference/user/friends/
 		*

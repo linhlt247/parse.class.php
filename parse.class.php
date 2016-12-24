@@ -38,7 +38,7 @@
 		}
 
 		/**
-			* Unfriend Facebook User (Deactived)
+			* Unfriend Deactive Account
 			* Return @string
 		*/
 

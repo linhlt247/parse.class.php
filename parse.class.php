@@ -7,14 +7,6 @@
 		* Requirements:
 		*
 		* OpenSSL functions installed and PHP version >= 5.0
-		* or
-		* Mcrypt functions installed.
-		*
-		* For PHP under version 7 it is recommendable you to install within your project
-		* "PHP 5.x support for random_bytes() and random_int()",
-		* @link https://github.com/paragonie/random_compat
-		*
-		* Usage:
 		*
 		* @author Huy Nguyen <nmhuy12@gmail.com> 2013-2016
 		* @version 1.2.0
